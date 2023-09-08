@@ -63,6 +63,11 @@
 * Postman collection [![Postman collection](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5cac7af3ce3ea1ac66be)
 * There's no pre-existing data in the application, you need to create users and messages using the provided requests.
 
+#### How to run the service locally
+* Node.js must be installed on your machine.
+* Clone the repository to your computer.
+* Navigate to the repository in a terminal and run the following commands, in order: ```npm install```, ```npm run-script build```, ```npm start```
+* The service will now be running locally and you can access the endpoints at ```http://localhost:3000```
 
 #### Technical requirements for your test script:
 * Test the **Message API** to see if it meets the requirements.
