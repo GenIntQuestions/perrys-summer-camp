@@ -60,7 +60,7 @@
     * Delete a message by id
 
 #### The developer has provided some information that might helpful
-* Postman collection [![Postman collection](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5cac7af3ce3ea1ac66be)
+* Postman collection [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/11432960-97511c69-526e-4650-8626-6a939d59a17d)
 * There's no pre-existing data in the application, you need to create users and messages using the provided requests.
 
 #### How to run the service locally
